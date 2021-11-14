@@ -6,7 +6,7 @@
 ## Setup
 ### Prerequisites
 - Install [Anaconda](https://www.anaconda.com/)
-- Save below-mentioned datasets
+- Save below-mentioned datasets in the right dataset subdirectory
 
 ### Anaconda Setup
 Step 1: Create Python Enviornment
