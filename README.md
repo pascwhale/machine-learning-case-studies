@@ -22,7 +22,7 @@ conda activate myenv
 Step 3: Install Python Libraries
 
 ```shell
-conda install numpy matplotlib jupyter scikit-learn
+conda install numpy matplotlib jupyter scikit-learn pandas
 conda install pytorch torchvision torchaudio cpuonly -c pytorch
 ```
 
