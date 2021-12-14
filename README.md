@@ -8,6 +8,8 @@
 - Install [Anaconda](https://www.anaconda.com/)
 - Save below-mentioned datasets in the right dataset subdirectory
 
+For the CIFAR-10 dataset, download the Python version of the dataset from the below-mentioned link in the `datasets/image` directory, then run the `tar -xvf cifar-10-python.tar.gz` on Linux/Mac or `7z x cifar-10-python.tar.gz` on Windows.
+
 ### Anaconda Setup
 Step 1: Create Python Enviornment
 
